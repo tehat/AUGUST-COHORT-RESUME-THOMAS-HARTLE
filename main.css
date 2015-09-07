@@ -71,3 +71,10 @@ main.css
 	font-family: Quattrocento;
 	font-size: 14px;
 }
+.nav {
+	color: #5A5A5A;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 14px 10px 14px 10px;
+	text-transform: uppercase;
+}
