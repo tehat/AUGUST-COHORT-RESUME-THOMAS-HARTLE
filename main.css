@@ -5,52 +5,55 @@ main.css
 	padding-bottom: 1px;
 	padding-left: 5px;
 	padding-right: 5px;	
-	background-color: powderblue;
+	background-color: #99FFFF;
 }
 
 .header h1 {
 	font-family: Quatttrocento;
-	color: maroon;
+	color: #990033;
 	font-size: 36px;
 }
 
 .header p {
-	color: maroon;
+	color: #990033;
 	font-family: Source Sans Pro;
 	font-size: 14px; 
 }
 
-.header a {
-	color: blue;
-	font-family: Source Sans Pro;
-	font-size: 14px;
+.nav {
+	background-color: #00CC99;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 5px;
+	padding-right: 5px;
 }
 
-.work-history {
-	color: slategray;
+
+.main {
+	color: #660000;
 	font-family: Source Sans Pro;
 	font-size: 14px;
-	background-color: aliceblue;
+	background-color: #99FFFF;
 }
 
-.work-history h4 {
-	color: slategray;
+.main h4 {
+	color: #660000;
 	font-family: Quattrocento;
 }
-.work-history p {
-	color: slategray;
+.main p {
+	color: #660000;
 	font-family: Source Sans Pro;
 	font-size: 14px:
 }
 
-.work-history a {
+.main a {
 	color: blue;
 	font-family: Source Sans Pro;
 	font-size: 14px:
 }
 
-.work-history h3 {
-	color: maroon;
+.main h3 {
+	color: #990033;
 	font-family: Quattrocento;
 	font-size: 16px;
 }
@@ -63,7 +66,7 @@ main.css
 }
 
 .education {
-	color: darkslategray;
+	color: #660000;
 	font-family: Quattrocento;
 	font-size: 14px;
 }
